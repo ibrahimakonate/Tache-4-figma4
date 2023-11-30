@@ -1,0 +1,310 @@
+body{
+  padding: 0%;
+  margin: 0%;
+  text-decoration: none;
+  list-style-type: none;
+}
+.parent{
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.enfant{
+
+  margin-left: 50px;
+  text-align: center;
+}
+ul{
+  margin-right: 100px;
+  display: flex;
+  justify-content: space-around;
+  
+  
+  
+}
+ul li{
+  padding: 20px 20px;
+  list-style-type: none; 
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  
+}
+body{
+  background: url(Group\ 25.png);
+  background-size: cover;
+  font-family: arial;
+  font-size: 13px;
+  margin-bottom: 300px;
+  margin: 0px;
+}
+.img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 550px;
+  margin-top: 150px;
+}
+.paragraphe{
+  width: 350px;
+  height: 50px;
+  background-color: gray;
+  color: white;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 460px;
+}
+.prh{
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  position: relative;
+  left: -30px;
+  text-align: center;
+}
+.sec3{
+  background-size: cover;
+   width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+.cer{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 80px;
+}
+.vito{
+  padding: 30px;
+  border-radius: 120px;
+  border: 1px solid rgb(106, 223, 112);
+  margin-top: 120px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.design{
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: bold;
+}
+.famili{
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.sec4{
+  width: 100%;
+    height: 700px;
+    margin-top: -20px;
+    background-color: rgb(250, 242, 242);
+}
+h1{
+  text-align: center;
+  position: relative;
+  top: 60px; 
+}
+.kona{
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+  margin-top: 90px;
+  gap: 40px;
+}
+ 
+.grand{
+  margin-top: 40px;
+}
+.mah{
+  width: 270px;
+  height: 270px;
+  display: flex;
+} 
+.moh{
+  width: 270px;
+  height: 270px;
+  display: flex;
+}
+.sec5{
+  width: 100%;
+  height: 380px;
+  background-color: white;
+}
+h2{
+  text-align: center;
+  position: relative;
+  top: 60px;
+}
+.web{
+  text-align: center;
+  margin-top: 90px;
+}
+.w3-border{
+  width: 20%;
+  background-color: rgba(207, 203, 203, 0.582);
+}
+.w3-grey{
+  width: 100%;
+  height: 12px;
+  background:  rgb(45, 214, 130);
+} 
+.w3-border{
+  width: 20%;
+  background-color: rgba(170, 168, 168, 0.582);
+}
+.w3-grey{
+  width: 100%;
+  height: 12px;
+  background:  rgb(45, 214, 130);
+} 
+.pap{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 300px;
+  position: relative;
+  bottom: 95px;
+}  
+.cent{
+  position: relative;
+  left: 1px;
+}
+.cent{
+  position: relative;
+  left: 70px;
+}
+  
+ .w3-border{
+  width: 20%;
+  background-color: rgba(143, 140, 140, 0.582);
+}
+.w3-grey{
+  width: 20%;
+  height: 12px;
+  background:  rgb(45, 214, 130);
+} 
+.w3-border{
+  width: 20%;
+  background-color: rgba(131, 130, 130, 0.582);
+}  
+.w3-grey{
+  width: 80%;
+  height: 12px;
+  background:  rgb(45, 214, 130);
+}
+.w3-borde{
+  width: 210%;
+  background-color: rgba(143, 140, 140, 0.582);
+}
+.w3-gre{
+  width: 20%;
+  height: 12px;
+  background:  rgb(45, 214, 130);
+}
+.cen{
+  position: relative;
+  left: 115px;
+} 
+.ecole{
+  position: relative;
+  top: 10px;
+}
+.dec{
+  text-align: left;
+  position: relative;
+  top: 10px;
+} 
+ .oppo{
+  margin-left: 160px;
+ }
+.cent{
+  position: relative;
+  left: 150px;
+}
+.sec6{
+  background-color: rgb(11, 116, 81);
+  width: 100%;
+  height: 700px;
+  position: relative;
+  bottom: 15px;
+}
+h3{
+  display: flex;
+  justify-content: center;
+}
+P{
+  text-align: center;
+}
+.gap{
+  color: white;
+  position: relative;
+  top: 50px;
+}
+.avatar{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 100px;
+}
+.sec7{
+  background-color: white;
+  width: 100%;
+  height: 400px;
+  position: relative;
+  bottom: 15px;
+}
+.eat{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 40px; 
+  left: 650px;
+}
+.vie{
+  position: relative;
+  top: 60px;
+}
+.angle{
+  margin-top: 170px;
+  font-weight: bold;
+}
+.sec8{
+  background-color: rgb(196, 193, 193);
+  width: 100%;
+  height: 500px;
+  position: relative;
+  bottom: 32px;
+}
+h4{
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+.mere{
+  display: flex;
+  justify-content: center;
+  gap: 90PX;
+  margin-top: 80px;
+}
+.nid{
+  position: relative;
+  bottom: 10px;
+}
+h5{
+  text-align: center;
+  font-size: 15px;
+}
+.icone{
+  display: flex;
+  justify-content: center;
+  gap: 30PX;
+}
+.centre{
+  text-align: center;
+  margin-top: 80px;
+}
